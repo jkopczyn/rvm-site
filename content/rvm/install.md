@@ -187,6 +187,11 @@ Please use the install process(es) from this site only, as this is the only supp
 It is safe to simply re-run the installation script again, or you can
 follow the [upgrading docs](/rvm/upgrading/).
 
+##### To repair a failed RVM installation
+
+It is safe to re-run the installation script again and this should repair most problems from the initial installation
+failing or being aborted prematurely.
+
 ### 2. Load RVM into your shell sessions as a function
 
 #### Single-User:
